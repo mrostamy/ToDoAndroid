@@ -1,4 +1,36 @@
 <resources>
     <string name="app_name">ToDoApp</string>
     <string name="splash_text">ToDoApp</string>
+    <string name="btn_get_retrofit">Get Retrofit</string>
+    <string name="get_volley">Get Volley</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="capture">Capture</string>
+    <string name="avatar">avatar</string>
+    <string name="gallery">Gallery</string>
+    <string name="test">Test</string>
+    <string name="avatar_person">avatar</string>
+    <string name="add_new_task">add new task</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="save_task">Save Task</string>
+    <string name="is_done">Is Done</string>
+    <string name="pay_home_bills">pay home bills</string>
+    <string name="payment_abeadence_is_the_end">payment abeadence is the end…</string>
+    <string name="delete_a_task_btn">delete a task btn</string>
+    <string name="color_for_task_card">color for task card</string>
+    <string name="input_for_title">input for title</string>
+    <string name="input_for_description">input for description</string>
+    <string name="set_notification_delay">set notification delay</string>
+    <string name="remind_me_after">Remind me After</string>
+    <string name="minute">Minute(s)</string>
+    <string name="minute_s">Minute(S)</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture_image_from_camera">capture image from camera</string>
+    <string name="temp_images_dir">picFromCamera</string>
+    <string name="temp_image">test777.jpg</string>
+    <string name="authorities">com.example.fileprovider</string>
+    <string name="task_pic">task pic</string>
+    <string name="delete_task_image">delete task image</string>
+    <string name="minutes_init">5</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_todo"
+        android:icon="@drawable/baseline_fact_check_list_24"
+        android:title="To-Do" />
+    <item
+        android:id="@+id/mnu_done"
+        android:icon="@drawable/baseline_checklist_rtl_done_24"
+        android:title="Done" />
+</menu>
